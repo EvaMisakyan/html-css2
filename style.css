@@ -1,0 +1,355 @@
+*{
+    margin: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-image: url(https://images01.nicepage.com/95/94/959442e7ce67c27b19ade3667cfeba2d.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 800px;
+}
+header h1{
+    font-weight: 700;
+    line-height: 1;
+    font-size: 6rem;
+    color: white;
+    position: relative;
+    top: 490px;
+    right: 250px;
+}
+.sec1{
+    height: 600px;
+    display: flex;
+    justify-content: center;
+}
+.sec1 .d1{
+    margin: 70px;
+}
+.sec1 .d1 h2{
+    font-family: Montserrat,sans-serif;
+    font-weight: 700;
+    text-transform: capitalize;
+    line-height: 1.2;
+    color: #111111;
+    font-size: 42px;
+}
+.sec1 .d1 p{
+    width:500px ;
+    color: #111111;
+    font-family: 'Open Sans',sans-serif;
+    font-weight: 400;
+    line-height: 1.6;
+    font-size: 1rem;
+}
+.sec1 .d2 img{
+    height: 410px;
+  width: 550px;
+    margin-top: 110px;
+   
+}
+/* sec2 */
+
+.sec2{
+    height: 700px;
+    background-color: #292d33;
+}
+
+.sec2 .d2 h2{
+    font-size: 3.75rem;
+    font-family: Montserrat,sans-serif;
+    font-weight: 700;
+    text-transform: capitalize;
+    line-height: 1.2;   
+    color: white;
+    padding-left: 220px;
+    padding-top: 130px;
+}
+.sec2 .d2 p{
+    width: 650px;
+    font-family: 'Open Sans',sans-serif;
+    font-weight: 400;
+    line-height: 1.6;
+    font-size: 1rem;
+    padding-left: 220px;
+    color: beige;
+
+}
+.sec2 .d3 {
+display: flex;
+justify-content: center;
+
+}
+.sec2 .d4 h3{
+    font-size: 1.875rem;
+    color: white;
+  
+}
+.sec2 .d4 p{
+    width: 167px;
+    font-size: 1.875rem;
+    color: white;
+
+}
+/* sec3 */
+
+.sec3{
+    height: 900px;
+margin-top: 100px;
+}
+.sec3 .d5 img{
+    height: 250px;
+    width: 350px;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.sec3 .d5 img .i-1{
+    height: 250px;
+    width: 350px;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.sec3 .d5{
+    justify-content: center;
+    display: flex;
+}
+.sec3 .i-1{
+    width: 380px;
+    height: 250px;
+} 
+
+.i-1 h3{
+    font-size: 3.75rem;
+}
+.d5 img{
+    margin-left: 15px;
+}
+
+
+/* sec4 */
+
+.sec4{
+    height: 400px;
+    margin: 0;
+    background-color: #292d33;
+  
+}
+.mainDiv3{
+    display: flex;
+}
+.sec4 .mainDiv3 h1{
+    font-size: 3.75rem;
+    color: #fff;
+    padding-left: 300px;
+    padding-top: 70px;
+
+}
+.sec4 .mainDiv3 p{
+    font-size: 1rem;
+    line-height: 1.6;
+    width: 550px;
+    padding-top:115px;
+    padding-left: 100px;
+    color: #fff;
+ 
+}
+.sec4 button{
+    background-color: #fff;
+    color: black;
+    font-weight: 700;
+    font-size: 0.875rem;    
+    height: 45px;
+    width: 105px;
+    border: none;
+}
+
+
+.sec5{
+    height: 700px;
+    color: #000;
+}
+.div1{
+padding-left: 600px;
+}
+.di7{
+    
+    font-size: 30px;
+    text-align: end;
+    padding-left: 300px;
+}
+.di7 h1{
+    color: #111111;
+    font-size: 3rem;
+    line-height: 1.6;
+}
+
+ .d7 p{
+    width: 350px;
+    padding-left: 900px;
+    text-align:end;
+ }
+ .d8 img{
+    width: 122px;
+    height: 122px;
+    background-position: 50% 50%;
+    border-radius: 50%;
+    position: relative;
+    left: 100px;
+
+ }
+ .di8{
+    width: 400px;
+    text-align: center;
+ }
+ .di8 p{
+    font-family: 'Open Sans',sans-serif;
+    font-weight: 400;
+    line-height: 1.6;
+    font-size: 1rem;
+    
+ }
+ .di8 h5{
+    font-family: Montserrat,sans-serif;
+    font-weight: 700;
+    text-transform: capitalize;
+    line-height: 1.2;
+    font-size: 1.25rem;
+    
+ }
+.d9 img{
+    width: 122px;
+    height: 122px;
+    background-position: 50%  50%;
+    border-radius: 50%;  
+    position: relative;
+    left: 100px;
+}
+ .di8 p{
+    font-family: 'Open Sans',sans-serif;
+    font-weight: 400;
+    line-height: 1.6;
+    font-size: 1rem;
+    
+ }
+ .di8 h5{
+    font-family: Montserrat,sans-serif;
+    font-weight: 700;
+    text-transform: capitalize;
+    line-height: 1.2;
+    font-size: 1.25rem;
+    
+ }
+ .div2{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 50px;
+ }
+
+
+  
+/* sec6 */
+.sec6{
+    height: 900px;
+}
+.mainDiv11{
+    display: flex;
+}
+.sec6 .d3{
+   background-image: url(https://images01.nicepage.com/3f/38/3f3860bd4fed5be6677a686671511935.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+    width: 950px;
+}
+.sec6 .d4{
+    background-image: url(	https://images01.nicepage.com/e9/9c/e99c183fab3d210239d43648ef132a28.jpeg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     height: 450px;
+     width: 950px;
+ }
+
+ .mainDiv12{
+    display: flex;
+}
+.sec6 .d5{
+   background-image: url(	https://images01.nicepage.com/2e/01/2e011b70e7188a19c3380f650eb15dc0.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+    width: 950px;
+}
+.sec6 .d6{
+    background-image: url(https://images01.nicepage.com/12/9e/129e3635-3c43-474b-b0dd-97dd30c29a40.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     height: 450px;
+     width: 950px;
+ }
+ /* footer */
+.sec7{
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image:url(	https://images01.nicepage.com/57/af/57af2a717f047cff7e722199c35e1a68.jpeg) ;
+ }
+.d4-map{
+    height: 350px;
+    width: 350px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(https://www.nycinsiderguide.com/wp-content/uploads/2019/04/new-york-city-street-map.jpg);
+}
+.d0{
+    height: 350px;
+    width: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(https://images01.nicepage.com/0f/5b/0f5b0548ef666f909a2543e7646bc087.jpeg);
+}
+.d6 h3{
+    font-family: Montserrat,sans-serif;
+    font-weight: 700;
+    text-transform: capitalize;
+    line-height: 1.2;
+    font-size: 2.15rem;
+    color: white;
+ }
+
+ .d6 p{
+    font-family: 'Open Sans',sans-serif;
+    font-weight: 400;
+    line-height: 1.6;
+    font-size: 15px;
+    color: white;
+ } 
+
+ .d6{
+    background-color:#292d33;
+    height: 250px;
+    width: 350px;
+  
+ }
+ .madiv{
+    display: flex;
+    justify-content: center;
+ }
+ /* footer */
+ footer{
+    height: 200px;
+    
+    background-color: #333333;
+}
+footer a{
+    font-size: 15px;
+    color: #834496;
+    padding-top:15px;
+
+}
+footer p{
+    color: white;
+   
+
+}
